@@ -1,10 +1,4 @@
-/** - Code structure
- * - How I would go on to implement a more accurate version of spell-checker, with
- * 		a) Data collection of commonly misspelled words
- * 		b) Classify ways of misspelling words for each category - Deletion, Insertion and 
- * 																Substitution
- * 
- * I describe my approach in 2 steps:
+/** I describe my approach in 2 steps:
 1. First get data  about commonly misspelled words
 2. Tabulate the common misspell ways , using normalLDForDataCollection
 3. Implement weighted leveinstein distance 
