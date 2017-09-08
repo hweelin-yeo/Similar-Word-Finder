@@ -1,9 +1,4 @@
-/** Hi grader, the working code is in the HackerRank txt file. 
- * 
- * This is meant to be a supplement, as this unfortunately does
- * not work at run-time. However, I included this to show the following:
- * 
- * - Code structure
+/** - Code structure
  * - How I would go on to implement a more accurate version of spell-checker, with
  * 		a) Data collection of commonly misspelled words
  * 		b) Classify ways of misspelling words for each category - Deletion, Insertion and 
